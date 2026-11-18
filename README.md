@@ -10,7 +10,7 @@ Step-by-step instructions on how to install and setup this project locally.
 
 ```
 # clone the repository
-git clone https://github.com/atlas-school-classroom/ls-elijahnash4-droid.git
+git clone https://github.com/elijahnash4-droid/simple-ls-readme-submission.git
 
 # Navigate to the project directory
 cd ls-elijahnash4-droid
